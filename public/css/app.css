@@ -1,0 +1,11 @@
+.bg-login-image {
+    background: url('../images/login.jpeg') !important;
+    background-position: center !important;
+    background-size: cover !important;
+}
+
+.bg-register-image {
+    background: url('../images/register.jpg');
+    background-position: center;
+    background-size: cover;
+}
